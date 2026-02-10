@@ -4,7 +4,7 @@
 
 ## 🤔 Qu'est-ce que c'est que ce bordel ?
 
-Bashcord Installer est l'outil ultime pour installer [Bashcord1337](https://github.com/roothheo/Bashcord/), le mod Discord le plus stylé de l'univers. Parce que franchement, utiliser Discord sans mod en 2024, c'est comme manger des pâtes sans sel... techniquement possible, mais pourquoi se faire du mal ?
+Bashcord Installer est l'outil ultime pour installer [Bashcord](https://github.com/BashOnZsh/Bashcord), le mod Discord le plus stylé de l'univers. Parce que franchement, utiliser Discord sans mod en 2024, c'est comme manger des pâtes sans sel... techniquement possible, mais pourquoi se faire du mal ?
 
 **🐟 Et surtout, on kiffe grave le skin poiscaille !** Parce que quoi de mieux qu'un Discord qui ressemble à un poisson stylé ? C'est la classe ultime, et ça rend ton chat plus fun qu'un aquarium ! 🐠✨
 
@@ -44,7 +44,7 @@ Bashcord Installer est l'outil ultime pour installer [Bashcord1337](https://gith
 
 Tu n'arrives pas à télécharger ? Ton ordi fait des bruits bizarres ? Le fichier refuse de s'ouvrir ?
 
-➡️ **Contacte `miserablevie` sur Discord** - *Il ne mord pas (enfin, pas tout le temps)*
+➡️ **Contacte `miserablepersonne` sur Discord** - *Il ne mord pas (enfin, pas tout le temps)*
 
 > **Conseil de pro** : Préfère toujours les téléchargements depuis GitHub Releases. Les autres sites, c'est comme les bonbons d'un inconnu - ça peut mal finir.
 
@@ -147,8 +147,8 @@ Ce projet est sous licence [MIT](LICENSE) - Fais-en ce que tu veux, mais ne nous
 
 <div align="center">
 
-**Fait avec 💜 par un développeur de merde dc: miserablevie .**
+**Fait avec 💜 par un développeur de merde dc: miserablepersonne .**
 
-*"Parce que la vie est trop courte pour utiliser Discord vanilla"*
+*"Parce que la vie est trop courte pour utiliser Discord de manière basique"*
 
 </div>
