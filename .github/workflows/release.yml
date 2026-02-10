@@ -224,21 +224,21 @@ jobs:
           draft: false
           body: |
             ${{ github.ref_name == 'main' && 'This is the latest build of Bashcord Installer.' || format('This is release {0} of Bashcord Installer.', github.ref_name) }}
-            
+
             ## 🎭 Bashcord Installer - Parce que Discord Vanilla, c'est Chiant
-            
+
             ### 📥 Téléchargements
-            
+
             **🪟 Windows**
-            - [🎨 Version GUI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord.exe) - *Pour ceux qui aiment cliquer*
-            - [⌨️ Version CLI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-cli.exe) - *Pour les vrais hackers*
-            
+            - [🎨 Version GUI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord.exe) - *Pour ceux qui aiment cliquer*
+            - [⌨️ Version CLI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-cli.exe) - *Pour les vrais hackers*
+
             **🍎 MacOS**
-            - [🎨 Version GUI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord.MacOS.zip) - *Élégant comme un MacBook à 3000€*
-            
+            - [🎨 Version GUI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord.MacOS.zip) - *Élégant comme un MacBook à 3000€*
+
             **🐧 Linux**
-            - [🎨 Version GUI X11](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-x11) - *Old school mais efficace*
-            - [⌨️ Version CLI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-Linux-cli) - *Parce que les vrais utilisent le terminal*
+            - [🎨 Version GUI X11](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-x11) - *Old school mais efficace*
+            - [⌨️ Version CLI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-Linux-cli) - *Parce que les vrais utilisent le terminal*
           files: |
             linux/Bashcord-x11
             linux/Bashcord-Linux-cli

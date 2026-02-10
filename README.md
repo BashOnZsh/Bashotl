@@ -18,15 +18,15 @@ Bashcord Installer est l'outil ultime pour installer [Bashcord1337](https://gith
 ## 📥 Téléchargements - Choisis ton Poison
 
 ### 🪟 Windows (Pour les Masochistes)
-- [🎨 Version GUI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord.exe) - *Pour ceux qui aiment cliquer*
-- [⌨️ Version CLI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-cli.exe) - *Pour les vrais hackers*
+- [🎨 Version GUI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord.exe) - *Pour ceux qui aiment cliquer*
+- [⌨️ Version CLI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-cli.exe) - *Pour les vrais hackers*
 
 ### 🍎 MacOS (Pour les Hipsters)
-- [🎨 Version GUI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord.MacOS.zip) - *Élégant comme un MacBook à 3000€*
+- [🎨 Version GUI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord.MacOS.zip) - *Élégant comme un MacBook à 3000€*
 
 ### 🐧 Linux (Pour les Illuminés)
-- [🎨 Version GUI X11](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-x11) - *Old school mais efficace*
-- [⌨️ Version CLI](https://github.com/roothheo/Bashcord-Installer/releases/latest/download/Bashcord-Linux) - *Parce que les vrais utilisent le terminal*
+- [🎨 Version GUI X11](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-x11) - *Old school mais efficace*
+- [⌨️ Version CLI](https://github.com/BashOnZsh/Bashotl/releases/latest/download/Bashcord-Linux) - *Parce que les vrais utilisent le terminal*
 
 ### 🤷 Pas sûr de ta version ?
 
@@ -113,7 +113,7 @@ go build --tags cli
 # Parce que parfois, moins c'est plus
 ```
 
-> 💡 **Astuce de Pro** : Regarde [notre workflow GitHub](https://github.com/roothheo/Bashcord-Installer/blob/main/.github/workflows/release.yml) pour les flags de compilation optimaux. Ou pas, fais comme tu veux, c'est ta vie après tout.
+> 💡 **Astuce de Pro** : Regarde [notre workflow GitHub](https://github.com/BashOnZsh/Bashotl/blob/main/.github/workflows/release.yml) pour les flags de compilation optimaux. Ou pas, fais comme tu veux, c'est ta vie après tout.
 
 ## 🎭 Fonctionnalités Exclusives
 
