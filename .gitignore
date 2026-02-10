@@ -1,0 +1,56 @@
+equilotl
+*.exe
+*.syso
+*.old
+
+# Build artifacts et binaires
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+dist/
+build/
+
+# IDE et éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS générés
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Node modules (si applicable)
+node_modules/
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Couverture de tests
+*.cover
+coverage.txt
+coverage.html
+
+# Dépendances vendor (Go)
+vendor/
+
+# Fichiers de debug
+debug
+debug.test
+*.pprof

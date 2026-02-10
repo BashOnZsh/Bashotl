@@ -1,0 +1,6 @@
+$env:PATH = 'C:\Program Files\Go\bin;C:\tools\msys64\mingw64\bin;' + ($env:PATH -replace 'C:\\Program Files \(x86\)\\Go\\bin;', ''); $env:CGO_ENABLED='0'; go build -v -o Bashcord-cli.exe -tags cli
+
+
+GUI
+
+$env:CGO_ENABLED='1'; $env:CC='gcc'; go build -ldflags "-H windowsgui" -v -o BashcordGUI-FR.exe
