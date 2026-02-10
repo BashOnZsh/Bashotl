@@ -11,7 +11,7 @@ import (
 	"image/color"
 )
 
-const ReleaseUrl = "https://api.github.com/BashOnZsh/Bashcord/releases/tag/Latest"
+const ReleaseUrl = "https://api.github.com/repos/BashOnZsh/Bashcord/releases/tags/Latest"
 const InstallerReleaseUrl = "https://api.github.com/repos/Equicord/Equilotl/releases/latest"
 
 var UserAgent = "Equilotl/" + buildinfo.InstallerGitHash + " (https://github.com/Equicord/Equilotl)"
